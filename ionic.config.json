@@ -1,0 +1,7 @@
+{
+  "name": "firebase-logging",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

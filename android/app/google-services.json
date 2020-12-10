@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "390647423105",
+    "firebase_url": "https://mobile-inventory-7516f.firebaseio.com",
+    "project_id": "mobile-inventory-7516f",
+    "storage_bucket": "mobile-inventory-7516f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390647423105:android:3b45ff356fe3e38b866d80",
+        "android_client_info": {
+          "package_name": "com.algarytm.goodsreceiptoffline.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390647423105-7gqkqm3emhqqckro84f67r8jj8q47ku3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyxQQIY7hFU9LVXa-nlKZ75sKSnbMWHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390647423105-7gqkqm3emhqqckro84f67r8jj8q47ku3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390647423105-9vqddvfp65l7q989bvh338osob0i3u0m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.propelapps.mobilesupplychain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390647423105:android:f1570df7a65814d2866d80",
+        "android_client_info": {
+          "package_name": "com.propelapps.mobilesupplychain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390647423105-7gqkqm3emhqqckro84f67r8jj8q47ku3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyxQQIY7hFU9LVXa-nlKZ75sKSnbMWHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390647423105-7gqkqm3emhqqckro84f67r8jj8q47ku3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "390647423105-9vqddvfp65l7q989bvh338osob0i3u0m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.propelapps.mobilesupplychain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
